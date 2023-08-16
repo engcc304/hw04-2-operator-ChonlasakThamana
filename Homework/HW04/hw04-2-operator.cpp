@@ -1,8 +1,4 @@
 #include <stdio.h>
-/*
-จงเติมโค้ดโปรแกรมตามที่แสดงในส่วนของ Placeholc
-*/
-#include <stdio.h>
 int main() {
     int a = 0, b = 0 ;
     printf( "Please enter value (a b) : " ) ;
